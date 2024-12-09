@@ -1,5 +1,6 @@
 # Group Member
 
 1. Iskandar
-1. Raziq
+2. Raziq
+3. Farhan
    
