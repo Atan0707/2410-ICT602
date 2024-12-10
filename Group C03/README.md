@@ -23,4 +23,6 @@
 <a href="https://youtu.be/083Ggawj4Hw"> Youtube Documentation </a> <br>
 
 ## Lab 7
+<a href="https://github.com/ayieeez/Flutter_CRUD"> Source Code </a> <br>
+<a href="https://youtu.be/gXTiXTL3FaI?si=cqCEqPDdK0drfil4"> Youtube Documentation </a> <br>
 
