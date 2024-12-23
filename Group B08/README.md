@@ -5,3 +5,7 @@
 
 ## Lab Work 1
 <a href="https://t.me/c/1268048899/34316?thread=33987">SITI NUR ZULAIKHA</a>
+
+
+## Lab Work 2
+<a href = "https://t.me/c/1268048899/34396?thread=33988">SITI NUR ZULAIKHA</a>
