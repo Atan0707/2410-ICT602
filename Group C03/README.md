@@ -27,7 +27,9 @@
 <a href="https://youtu.be/gXTiXTL3FaI?si=cqCEqPDdK0drfil4"> Youtube Documentation </a> <br>
 
 ## Lab 8
-
+<a href="https://github.com/ayieeez/hardwarelab"> Source Code </a> <br>
+<a href="https://youtu.be/-QCghMiBJRk"> Youtube Documentation </a> <br>
 
 ## Lab 9
-
+<a href="https://github.com/ayieeez/Google-Sign-In"> Source Code </a> <br>
+<a href="https://youtu.be/ghFoKAsXyKU"> Youtube Documentation </a> <br>
