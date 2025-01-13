@@ -1,38 +1,36 @@
-# Group Member
-1. Hazim bin Md Yusof
-2. Muhammad Izzuddin bin Zuraimi
-3. Muhammad Norhashim bin Mohamed
+# Group Members
+1. Hazim bin Md Yusof  
+2. Muhammad Izzuddin bin Zuraimi  
+3. Muhammad Norhashim bin Mohamed  
 
+## 📌 **Individual Labs**  
+### 📝 **Lab 1**  
+- [Hazim Yusof](https://t.me/c/1268048899/33999?thread=33987)  
+- [Muhammad Izzuddin bin Zuraimi](https://t.me/c/1268048899/33996?thread=33987)  
+- [Muhammad Norhashim bin Mohamed](https://t.me/c/1268048899/34226?thread=33987)  
 
-## Individual Labs
-## Lab 1 
-<a href="https://t.me/c/1268048899/33999?thread=33987"> Hazim Yusof </a> <br>
-<a href= "https://t.me/c/1268048899/33996?thread=33987"> Muhammad Izzuddin bin Zuraimi</a> <br> 
-<a href= "https://t.me/c/1268048899/34226?thread=33987"> Muhammad Norhashim bin Mohamed</a> <br>
+### 📝 **Lab 2**  
+- [Hazim Yusof](https://t.me/c/1268048899/34296?thread=33988)  
+- [Muhammad Izzuddin bin Zuraimi](https://t.me/c/1268048899/34150?thread=33988)  
+- [Muhammad Norhashim bin Mohamed](https://t.me/c/1268048899/34225?thread=33988)  
 
-## Lab 2 
-<a href="https://t.me/c/1268048899/34296?thread=33988"> Hazim Yusof </a> <br>
-<a href="https://t.me/c/1268048899/34150?thread=33988"> Muhammad Izzuddin bin Zuraimi </a> <br>
-<a href="https://t.me/c/1268048899/34225?thread=33988"> Muhammad Norhashim bin Mohamed </a> <br>
+### 📝 **Lab 3**  
+- [Hazim Yusof](https://t.me/c/1268048899/34724?thread=34431)  
+- [Muhammad Izzuddin bin Zuraimi](https://t.me/c/1268048899/34636?thread=34431)  
 
-## Lab 3
-<a href="https://t.me/c/1268048899/34724?thread=34431"> Hazim Yusof </a> <br>
-<a href="https://t.me/c/1268048899/34636?thread=34431"> Muhammad Izzuddin bin Zuraimi </a> <br>
+## 📦 **Group Labs**  
+### 🚀 **Lab 4, 5, 6**  
+- [Source Code](https://github.com/ayieeez/Flutter_CRUD)  
+- [YouTube Documentation](https://youtu.be/083Ggawj4Hw)  
 
+### 🚀 **Lab 7**  
+- [Source Code](https://github.com/ayieeez/Flutter_CRUD)  
+- [YouTube Documentation](https://youtu.be/gXTiXTL3FaI?si=cqCEqPDdK0drfil4)  
 
-## Group Labs  
-## Lab 4, 5, 6
-<a href="https://github.com/ayieeez/Flutter_CRUD"> Source Code </a> <br>
-<a href="https://youtu.be/083Ggawj4Hw"> Youtube Documentation </a> <br>
+### 🚀 **Lab 8**  
+- [Source Code](https://github.com/ayieeez/hardwarelab)  
+- [YouTube Documentation](https://youtu.be/-QCghMiBJRk)  
 
-## Lab 7
-<a href="https://github.com/ayieeez/Flutter_CRUD"> Source Code </a> <br>
-<a href="https://youtu.be/gXTiXTL3FaI?si=cqCEqPDdK0drfil4"> Youtube Documentation </a> <br>
-
-## Lab 8
-<a href="https://github.com/ayieeez/hardwarelab"> Source Code </a> <br>
-<a href="https://youtu.be/-QCghMiBJRk"> Youtube Documentation </a> <br>
-
-## Lab 9
-<a href="https://github.com/ayieeez/Google-Sign-In"> Source Code </a> <br>
-<a href="https://youtu.be/ghFoKAsXyKU"> Youtube Documentation </a> <br>
+### 🚀 **Lab 9**  
+- [Source Code](https://github.com/ayieeez/Google-Sign-In)  
+- [YouTube Documentation](https://youtu.be/ghFoKAsXyKU)  
