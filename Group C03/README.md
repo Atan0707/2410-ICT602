@@ -19,18 +19,18 @@
 - [Muhammad Izzuddin bin Zuraimi](https://t.me/c/1268048899/34636?thread=34431)  
 
 ## 📦 **Group Labs**  
-### 🚀 **Lab 4, 5, 6**  
+### 🚀 **Lab 4, 5, 6** - **CRUD (Create, Read, Update, Delete)**  
 - [Source Code](https://github.com/ayieeez/Flutter_CRUD)  
 - [YouTube Documentation](https://youtu.be/083Ggawj4Hw)  
 
-### 🚀 **Lab 7**  
+### 🚀 **Lab 7** - **CRUD (Continue: Delete)**  
 - [Source Code](https://github.com/ayieeez/Flutter_CRUD)  
 - [YouTube Documentation](https://youtu.be/gXTiXTL3FaI?si=cqCEqPDdK0drfil4)  
 
-### 🚀 **Lab 8**  
+### 🚀 **Lab 8** - **Accessing the Hardware**  
 - [Source Code](https://github.com/ayieeez/hardwarelab)  
 - [YouTube Documentation](https://youtu.be/-QCghMiBJRk)  
 
-### 🚀 **Lab 9**  
+### 🚀 **Lab 9** - **Google Sign-In**  
 - [Source Code](https://github.com/ayieeez/Google-Sign-In)  
 - [YouTube Documentation](https://youtu.be/ghFoKAsXyKU)  
