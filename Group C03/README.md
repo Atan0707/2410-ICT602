@@ -35,6 +35,6 @@
 - [Source Code](https://github.com/ayieeez/Google-Sign-In)  
 - [YouTube Documentation](https://youtu.be/ghFoKAsXyKU)
 
-### 🚀 **Lab 10** - **RESTful API **
+### 🚀 **Lab 10** - **RESTful API**
 
 
