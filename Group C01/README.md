@@ -34,4 +34,4 @@
 
 ## Lab 10
 <a href="https://github.com/izzcode02/Student-Information-Management-System"> Source Code </a> <br>
-<a href="https://youtu.be/aW7VI8LOL4Y"> Youtube Documentation [unfinished] </a> <br>
+<a href="https://youtu.be/2VMXQvMh4t4"> Youtube Documentation</a> <br>
