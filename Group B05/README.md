@@ -32,7 +32,9 @@ ________________________________________________________________________________
 
 | LAB |               LINK     |
 | :--------|     :-------      |
-| LAB 1           |    [TENGKU AIZAD](https://t.me/c/1268048899/34297?thread=33987)| 
+| LAB 1           |   ⦿ [TENGKU AIZAD](https://t.me/c/1268048899/34297?thread=33987)| 
+                      ⦿
+                      ⦿
 | LAB 2           |    [TENGKU AIZAD](https://t.me/c/1268048899/34228?thread=33988)|
 | LAB 3           |    [TENGKU AIZAD](https://www.youtube.com/watch?v=K4DOyUvqLDU) |
 
