@@ -26,7 +26,7 @@
 
 ## Lab 8
 <a href="https://github.com/izzcode02/Student-Information-Management-System"> Source Code </a> <br>
-<a href="https://youtu.be/5vEeaEuX6iQ"> Youtube Documentation [unfinished] </a> <br>
+<a href="https://youtu.be/5vEeaEuX6iQ"> Youtube Documentation </a> <br>
 
 ## Lab 9
 <a href="https://github.com/izzcode02/Student-Information-Management-System"> Source Code </a> <br>
