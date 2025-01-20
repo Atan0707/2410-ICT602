@@ -9,7 +9,7 @@
 | NAME | STUDENT ID                |
 | :-------- | :------------------------- |
 | TENGKU AIZAD BIN TENGKU NOOR AZMAN | 2022612546|
-| NAMA | STUID|
+| MUHAMMAD IZZUDDIN BIN OTHMAN | 2022461314|
 | NAMA | STUID|
 | NAMA | STUID|
 
