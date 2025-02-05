@@ -18,6 +18,10 @@
 <a href="https://t.me/c/1268048899/34750?thread=34431"> Muhd Azri Mokhzani </a> <br>
 <a href= "https://t.me/c/1268048899/35135?thread=34431"> Muhd Faris Akmal Musa </a> <br>
 
-## Lab 4, 5, 6, 7
+## Lab 4, 5, 6
 <a href="https://github.com/Mazri02/SimpleFlutter"> Source Code </a> <br>
 <a href="https://www.youtube.com/watch?v=YCIOvHG4EoE"> Youtube Documentation </a> <br>
+
+## Lab 7, 8, 9
+<a href="https://github.com/Mazri02/SimpleFlutter"> Source Code </a> <br>
+<a href="https://www.youtube.com/watch?v=59tdkn-Ao2c"> Youtube Documentation </a> <br>
