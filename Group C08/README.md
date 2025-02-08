@@ -6,12 +6,15 @@
 ## INDIVIDUAL LABS
 ### Lab Work 1 
 <a href="https://t.me/c/1268048899/34299?thread=33987"> Aishah Binti Ahmad Basuki </a> <br>
+<a href="https://t.me/c/1268048899/34326?thread=33987"> Batrisyia Aleeyah Binti Mohd Sophian </a> <br>
 
 ### Lab Work 2 
 <a href="https://t.me/c/1268048899/34300?thread=33988"> Aishah Binti Ahmad Basuki  </a> <br>
+<a href="https://t.me/c/1268048899/34756?thread=33988"> Batrisyia Aleeyah Binti Mohd Sophian </a> <br>
 
 ### Lab Work 3
 <a href="https://t.me/c/1268048899/37608?thread=34431"> Aishah Binti Ahmad Basuki </a> <br>
+<a href="https://t.me/c/1268048899/37642?thread=34431"> Batrisyia Aleeyah Binti Mohd Sophian </a> <br>
 
 ## GROUP LABS
 ### Lab Work 4, 5, 6
