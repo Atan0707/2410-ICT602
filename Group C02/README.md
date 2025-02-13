@@ -31,6 +31,7 @@
 2. Muhammad Faris Akmal Bin Musa
 3. Muhammad Suffian Bin Mahathir
 4. Muhammad Alif Iskandar Bin Mad Sihad
+5. Ahmad Raziq bin Mohd Roslil Khitam
 
 ## Lab 10 & Group Assignment
 <a href="https://github.com/Mazri02/HospitalTracker"> Source Code </a> <br>
