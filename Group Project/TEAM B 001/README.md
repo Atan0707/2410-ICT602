@@ -16,7 +16,5 @@
 
 ### 📄 Project Report:
 
-📂 [Google Drive - Project Files](https://drive.google.com/drive/folders/1iOP5Qq9iIfbubQb96qAPMKRmgbFlKCSD?usp=sharing)
-
 📄 [Final Project Report](https://drive.google.com/file/d/1mMO5D3jPEdPMvNhGhQPl6Qb6XE0C01ss/view?usp=drive_link)
 
