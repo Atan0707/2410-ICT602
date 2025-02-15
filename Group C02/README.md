@@ -36,3 +36,4 @@
 ## Lab 10 & Group Assignment
 <a href="https://github.com/Mazri02/HospitalTracker"> Source Code </a> <br>
 <a href="https://youtu.be/3LbW4Pd7YQo"> Youtube Documentation </a> <br>
+<a href="https://drive.google.com/file/d/1OPVq4MDweEfuIK1Gt1Lf2jdMO8kH5kbQ/view?usp=sharing"> Simple Written Report </a> <br>
