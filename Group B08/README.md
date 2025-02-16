@@ -21,8 +21,8 @@
 
 ## GROUP PROJECT  
 ### LAB 4,5,6 CREATE,READ,UPDATE,DELETE(CRUD)  
-[LAB 4](https://t.me/c/1268048899/37669?thread=34742)  
-[LAB 5](https://t.me/c/1268048899/37670?thread=35017)  
-[LAB 6](https://t.me/c/1268048899/37671?thread=35389)
+[LAB 4 CREATE](https://t.me/c/1268048899/37669?thread=34742)  
+[LAB 5 READ](https://t.me/c/1268048899/37670?thread=35017)  
+[LAB 6 UPDATE](https://t.me/c/1268048899/37671?thread=35389)
 
 
