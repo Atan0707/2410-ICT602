@@ -19,10 +19,10 @@
 <a href = "https://t.me/c/1268048899/36731?thread=34431">SITI NUR ZULAIKHA</a>
 
 
+## GROUP PROJECT  
+### LAB 4,5,6 CREATE,READ,UPDATE,DELETE(CRUD)  
+[LAB 4](https://t.me/c/1268048899/37669?thread=34742)  
+[LAB 5](https://t.me/c/1268048899/37670?thread=35017)  
+[LAB 6](https://t.me/c/1268048899/37671?thread=35389)
 
-## GROUP PROJECT<br>
-### LAB 4,5,6 CREATE,READ,UPDATE,DELETE(CRUD)
-< a href = "https://t.me/c/1268048899/37669?thread=34742">LAB 4</a><br>
-< a href ="https://t.me/c/1268048899/37670?thread=35017">LAB 5</a><br>
-< a href ="https://t.me/c/1268048899/37671?thread=35389">LAB 6</a>
 
