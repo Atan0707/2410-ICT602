@@ -5,7 +5,7 @@
 
 ## 📌 **Individual Labs**  
 ### 📝 **Lab 1**  
-- [Hazim Yusof](https://t.me/c/1268048899/34223?thread=33987)  
+- [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/34223?thread=33987)  
 - [Muhammad Ajolontol]()  
 - [Muhammad Mirganistan]()  
 
