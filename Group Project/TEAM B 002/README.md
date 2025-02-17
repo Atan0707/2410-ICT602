@@ -9,12 +9,12 @@
 5. **MUHAMMAD FARHAN BIN AMIR FIKREY** (2023627494)  
 
 ### 📂 Project Repository:
-🔗 [CareTrack Apps on GitHub]()
+🔗 [Crowdsourcing Hazard Apps on GitHub]()
 
 ### 🎥 Project Presentation:
 📺 [Watch on YouTube](https://youtu.be/ncDr-vsgykE)
 
 ### 📄 Project Report:
 
-📄 [Final Project Report]()# 2410-ICT602
+📄 [Final Project Report](https://drive.google.com/file/d/1ZDkKLGkSAkoTwlH5DsWvh4Lx-Jx-_icu/view?usp=sharing)# 2410-ICT602
 ## Group Project
