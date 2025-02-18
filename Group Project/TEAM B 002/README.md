@@ -9,7 +9,7 @@
 5. **MUHAMMAD FARHAN BIN AMIR FIKREY** (2023627494)  
 
 ### 📂 Project Repository:
-🔗 [Crowdsourcing Hazard Apps on GitHub](https://github.com/JustPaan/Crowdsourcing-hazard)
+🔗 [Crowdsourcing Hazard Apps on GitHub](https://github.com/JustPaan/Crowdsourcing-hazard?tab=readme-ov-file#-crowdsourcing-hazard-information-system)
 
 ### 🎥 Project Presentation:
 📺 [Watch on YouTube](https://youtu.be/ncDr-vsgykE)
