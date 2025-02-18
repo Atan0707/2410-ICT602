@@ -1,1 +1,359 @@
+main.dart
+
+import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'firebase_options.dart';
+import 'screens/user_information_form.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: const HomeScreen(),
+    );
+  }
+}
+
+class HomeScreen extends StatelessWidget {
+  const HomeScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("Seri Tuition Class"),
+        centerTitle: true,
+        backgroundColor: const Color.fromARGB(255, 140, 225, 154),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () {
+          Navigator.push(
+            context,
+            MaterialPageRoute(
+              builder: (context) => const UserInformationForm(),
+            ),
+          );
+        },
+        backgroundColor: const Color.fromARGB(255, 140, 225, 154),
+        child: const Icon(Icons.add, color: Colors.white),
+      ),
+      body: StreamBuilder<QuerySnapshot>(
+        stream:
+            FirebaseFirestore.instance
+                .collection('users')
+                .where('isDeleted', isEqualTo: false)
+                .snapshots(),
+        builder: (context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.waiting) {
+            return const Center(child: CircularProgressIndicator());
+          }
+          if (snapshot.hasError) {
+            return Center(child: Text("Error: ${snapshot.error}"));
+          }
+          if (!snapshot.hasData || snapshot.data!.docs.isEmpty) {
+            return const Center(child: Text("No users found."));
+          }
+
+          var users = snapshot.data!.docs;
+
+          return ListView.builder(
+            padding: const EdgeInsets.all(8.0),
+            itemCount: users.length,
+            itemBuilder: (context, index) {
+              var user = users[index];
+              var userData = user.data() as Map<String, dynamic>;
+
+              return Card(
+                elevation: 4,
+                margin: const EdgeInsets.symmetric(vertical: 8, horizontal: 4),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: Padding(
+                  padding: const EdgeInsets.all(12.0),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        userData['name'] ?? "Unknown",
+                        style: const TextStyle(
+                          fontSize: 18,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const SizedBox(height: 8),
+                      if (userData['role'] == "Student") ...[
+                        Text(
+                          "Class: ${userData['class'] ?? 'N/A'}",
+                          style: const TextStyle(
+                            fontSize: 14,
+                            fontWeight: FontWeight.w600,
+                          ),
+                        ),
+                        const SizedBox(height: 4),
+                        Text(
+                          "School: ${userData['school'] ?? 'N/A'}",
+                          style: const TextStyle(
+                            fontSize: 14,
+                            color: Colors.grey,
+                          ),
+                        ),
+                      ] else ...[
+                        Text(
+                          "Department: ${userData['department'] ?? 'N/A'}",
+                          style: const TextStyle(
+                            fontSize: 14,
+                            color: Colors.grey,
+                          ),
+                        ),
+                      ],
+                      const SizedBox(height: 8),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.end,
+                        children: [
+                          IconButton(
+                            icon: const Icon(Icons.edit, color: Colors.blue),
+                            onPressed: () {
+                              Navigator.push(
+                                context,
+                                MaterialPageRoute(
+                                  builder:
+                                      (context) =>
+                                          UserInformationForm(userId: user.id),
+                                ),
+                              );
+                            },
+                          ),
+                          IconButton(
+                            icon: const Icon(Icons.delete, color: Colors.red),
+                            onPressed: () async {
+                              bool confirmDelete = await showDialog(
+                                context: context,
+                                builder:
+                                    (context) => AlertDialog(
+                                      title: const Text("Delete User"),
+                                      content: const Text(
+                                        "Are you sure you want to delete this user?",
+                                      ),
+                                      actions: [
+                                        TextButton(
+                                          onPressed:
+                                              () =>
+                                                  Navigator.pop(context, false),
+                                          child: const Text("Cancel"),
+                                        ),
+                                        TextButton(
+                                          onPressed:
+                                              () =>
+                                                  Navigator.pop(context, true),
+                                          child: const Text("Delete"),
+                                        ),
+                                      ],
+                                    ),
+                              );
+
+                              if (confirmDelete == true) {
+                                await FirebaseFirestore.instance
+                                    .collection('users')
+                                    .doc(user.id)
+                                    .update({'isDeleted': true});
+                                if (!context.mounted) return;
+                                ScaffoldMessenger.of(context).showSnackBar(
+                                  const SnackBar(
+                                    content: Text("User deleted successfully!"),
+                                  ),
+                                );
+                              }
+                            },
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                ),
+              );
+            },
+          );
+        },
+      ),
+    );
+  }
+}
+
+user_information_form.dart
+
+import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+
+class UserInformationForm extends StatefulWidget {
+  final String? userId;
+
+  const UserInformationForm({super.key, this.userId});
+
+  @override
+  UserInformationFormState createState() => UserInformationFormState();
+}
+
+class UserInformationFormState extends State<UserInformationForm> {
+  final _formKey = GlobalKey<FormState>();
+  final TextEditingController _nameController = TextEditingController();
+  String _selectedRole = 'Student'; // Default role
+  final TextEditingController _schoolController = TextEditingController();
+  final TextEditingController _classController =
+      TextEditingController(); // Added class field
+  final TextEditingController _departmentController = TextEditingController();
+
+  @override
+  void initState() {
+    super.initState();
+    if (widget.userId != null) {
+      _loadUserData();
+    }
+  }
+
+  Future<void> _loadUserData() async {
+    DocumentSnapshot userDoc =
+        await FirebaseFirestore.instance
+            .collection('users')
+            .doc(widget.userId)
+            .get();
+    if (userDoc.exists) {
+      Map<String, dynamic> userData = userDoc.data() as Map<String, dynamic>;
+      setState(() {
+        _nameController.text = userData['name'] ?? '';
+        _selectedRole = userData['role'] ?? 'Student';
+        _schoolController.text = userData['school'] ?? '';
+        _classController.text = userData['class'] ?? ''; // Load class data
+        _departmentController.text = userData['department'] ?? '';
+      });
+    }
+  }
+
+  Future<void> _saveUser() async {
+    if (_formKey.currentState!.validate()) {
+      Map<String, dynamic> userData = {
+        'name': _nameController.text,
+        'role': _selectedRole,
+        'school': _selectedRole == "Student" ? _schoolController.text : null,
+        'class':
+            _selectedRole == "Student"
+                ? _classController.text
+                : null, // Save class
+        'department':
+            _selectedRole == "Teacher" ? _departmentController.text : null,
+        'isDeleted': false,
+      };
+
+      if (widget.userId == null) {
+        await FirebaseFirestore.instance.collection('users').add(userData);
+      } else {
+        await FirebaseFirestore.instance
+            .collection('users')
+            .doc(widget.userId)
+            .update(userData);
+      }
+
+      if (!mounted) return;
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(const SnackBar(content: Text("User saved successfully!")));
+
+      Navigator.pop(context);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(widget.userId == null ? "Add User" : "Edit User"),
+      ),
+      body: Padding(
+        padding: const EdgeInsets.all(16.0),
+        child: Form(
+          key: _formKey,
+          child: Column(
+            children: [
+              TextFormField(
+                controller: _nameController,
+                decoration: const InputDecoration(labelText: "Name"),
+                validator: (value) => value!.isEmpty ? "Enter a name" : null,
+              ),
+              const SizedBox(height: 10),
+
+              // Role dropdown (Student or Teacher)
+              DropdownButtonFormField<String>(
+                value: _selectedRole,
+                decoration: const InputDecoration(labelText: "Role"),
+                items:
+                    ['Student', 'Teacher']
+                        .map(
+                          (role) =>
+                              DropdownMenuItem(value: role, child: Text(role)),
+                        )
+                        .toList(),
+                onChanged: (value) {
+                  setState(() {
+                    _selectedRole = value!;
+                  });
+                },
+              ),
+              const SizedBox(height: 10),
+
+              // School (Only for Students)
+              if (_selectedRole == "Student")
+                TextFormField(
+                  controller: _schoolController,
+                  decoration: const InputDecoration(labelText: "School"),
+                  validator:
+                      (value) =>
+                          _selectedRole == "Student" && value!.isEmpty
+                              ? "Enter school name"
+                              : null,
+                ),
+
+              // Class (Only for Students)
+              if (_selectedRole == "Student")
+                TextFormField(
+                  controller: _classController,
+                  decoration: const InputDecoration(labelText: "Class"),
+                  validator:
+                      (value) =>
+                          _selectedRole == "Student" && value!.isEmpty
+                              ? "Enter class name"
+                              : null,
+                ),
+
+              // Department (Only for Teachers)
+              if (_selectedRole == "Teacher")
+                TextFormField(
+                  controller: _departmentController,
+                  decoration: const InputDecoration(labelText: "Department"),
+                  validator:
+                      (value) =>
+                          _selectedRole == "Teacher" && value!.isEmpty
+                              ? "Enter department"
+                              : null,
+                ),
+
+              const SizedBox(height: 20),
+              ElevatedButton(onPressed: _saveUser, child: const Text("Save")),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
 
