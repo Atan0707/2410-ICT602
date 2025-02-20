@@ -29,8 +29,8 @@ MUHAMMAD FIRDAUS BIN ALI
 
 | LAB | Link                                                   | Source Code |   
 |-----|--------------------------------------------------------|-------------|
-| 4-6   | [CRUD (Create, Read, Update, Delete](https://youtu.be/_R5S8EH_MKM) |[Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-4-6)) |
-| 7   | [CRUD (Multiple Delete)](https://youtu.be/THsOeSOLg8E) |[Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-7)) |
+| 4-6   | [CRUD (Create, Read, Update, Delete](https://youtu.be/_R5S8EH_MKM) |[Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-4-6) |
+| 7   | [CRUD (Multiple Delete)](https://youtu.be/THsOeSOLg8E) |[Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-7) |
 | 8   | [Accesssing the Hardware](https://youtu.be/_1N0ADPxywM) | [Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-8) |
 | 9   | [Google Sign-In](https://youtu.be/LSLFbLWYRKo)| [Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-9) |
 | 10   | [RESTful API]() | [Source Code]() |
