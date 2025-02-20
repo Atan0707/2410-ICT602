@@ -33,4 +33,4 @@ MUHAMMAD FIRDAUS BIN ALI
 | 7   | [CRUD (Multiple Delete)](https://youtu.be/THsOeSOLg8E) |[Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-7)) |
 | 8   | [Accesssing the Hardware](https://youtu.be/_1N0ADPxywM) | [Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-8) |
 | 9   | [Google Sign-In](https://youtu.be/LSLFbLWYRKo)| [Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-9) |
-| 10   | [RESTful API](https://t.me/c/1268048899/34415?thread=33988) | [Source Code]() |
+| 10   | [RESTful API]() | [Source Code]() |
