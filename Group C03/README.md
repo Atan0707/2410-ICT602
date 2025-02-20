@@ -1,7 +1,7 @@
 # Group Members
-1. Hazim bin Md Yusof  
-2. Muhammad Izzuddin bin Zuraimi  
-3. Muhammad Norhashim bin Mohamed  
+1. Muhammad Izzuddin bin Zuraimi (2023679924)
+2. Muhammad Norhashim bin Mohamed (2023867776)
+3. Hazim bin Md Yusof (2023637174)
 
 ## 📌 **Individual Labs**  
 ### 📝 **Lab 1**  
