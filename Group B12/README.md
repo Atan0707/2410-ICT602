@@ -16,7 +16,7 @@
 <a href="https://youtu.be/EA5Q1wyQnKA"> Youtube Documentation </a> <br>
 
 ## Lab 7
-<a href="[https://github.com/aishalia/Serituitioncenter.git]"> Source Code </a> <br>
+<a href="https://github.com/aishalia/Serituitioncenter.git"> Source Code </a> <br>
 <a href="https://youtu.be/kzK5hX46mpc"> Youtube Documentation </a> <br>
 
 ## Lab 8
