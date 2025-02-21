@@ -1,5 +1,5 @@
 # 2410-ICT602
-## Group Project
+## Group Project (CDCS2515C)
 
 ### 👥 Group Members:
 1. **Muhammad Izzuddin bin Zuraimi** (2023679924)  
