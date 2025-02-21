@@ -44,4 +44,4 @@
 </table>
 
 ## HOSPITAL LOCATOR
-<a href="[https://drive.google.com/file/d/1MjqvkuX6u-rQzsblSl7J0Xd6MMMZI4BH/view?usp=sharing](https://docs.google.com/document/d/19rNKC_8eCG3-o0ks6Ymy1qWNNJ_MAzdhyXqSiRZ8B4A/edit?usp=sharing)">Report</a><br>
+<a href="(https://docs.google.com/document/d/19rNKC_8eCG3-o0ks6Ymy1qWNNJ_MAzdhyXqSiRZ8B4A/edit?usp=sharing)">Report</a><br>
