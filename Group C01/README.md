@@ -11,9 +11,11 @@
 ## Lab 2 
 <a href="https://t.me/c/1268048899/34298?thread=33988"> Muhammad Alif Iskandar bin Mad Sihad </a> <br>
 <a href="https://t.me/c/1268048899/34395?thread=33988"> Muhammad Farhan bin Amir Fikrey </a> <br>
+<a href="https://t.me/c/1268048899/37667?thread=33988"> Ahmad Raziq bin Mohd Roslil Khitam </a> <br>
 
 ## Lab 3
 <a href="https://t.me/c/1268048899/35259?thread=34431"> Muhammad Alif Iskandar bin Mad Sihad </a> <br>
+
 
 # GROUP
 ## Lab 4, 5, 6
