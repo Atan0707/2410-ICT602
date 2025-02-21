@@ -41,5 +41,5 @@
 - ▶️ Youtube:
 
   ### 💻 **Lab 10**
-- 🔗 Source Code: 
-- ▶️ Youtube: 
+- 🔗 Source Code: [Lab 10-RESTful API] 
+- ▶️ Youtube: [Group B11 | Lab Work 10 - RESTful API]
