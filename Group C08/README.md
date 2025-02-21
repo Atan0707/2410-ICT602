@@ -27,11 +27,11 @@
 
 ### Lab Work 8
 <a href="https://github.com/lylysya/Accessing-Hardware"> Source Code </a> <br>
-<a > Youtube Documentation </a> <br>
+<a href="https://github.com/addff/2410-ICT602/blob/main/Group%20C08/README.md"> Youtube Documentation </a> <br>
 
 ### Lab Work 9
-<a > Source Code </a> <br>
-<a > Youtube Documentation </a> <br>
+<a href="https://github.com/addff/2410-ICT602/blob/main/Group%20C08/README.md"> Source Code </a> <br>
+<a href="https://github.com/addff/2410-ICT602/blob/main/Group%20C08/README.md"> Youtube Documentation </a> <br>
 
 ### Lab Work 10
 <a href="https://github.com/ishayee/RESTful-API-"> Source Code </a> <br>
