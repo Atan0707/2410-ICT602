@@ -1,4 +1,4 @@
-[logo]
+![logo](https://pin.it/6x5FlLtmM)
 # **POWERPUFF GIRLS** 👧🏻👧🏼👧🏽
 
 ### 👩🏻‍🤝‍👩🏼 **Team Members:**
