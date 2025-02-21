@@ -1,9 +1,9 @@
-GORGEOUS
-1.NURIN BATRISYIA BINTI ABU HANIF
-2.SYAHINDAH BINTI SAIFUL AZMAN AZLI
+# 🌟 GORGEOUS 🌟  
 
-LAB 9 (https://github.com/Starfallsya/LAB-9.git)
-YOUTUBE LINK (https://youtu.be/MFcGJBkLM8A?si=TcdF-sqRACakCJoa)
+### Team Members  
+1. **Nurin Batrisyia Binti Abu Hanif**  
+2. **Syahindah Binti Saiful Azman Azli**  
 
-
-
+### 🔗 Links  
+- [📂 LAB 9 Repository](https://github.com/Starfallsya/LAB-9.git)  
+- [🎥 YouTube Video](https://youtu.be/MFcGJBkLM8A?si=TcdF-sqRACakCJoa)  
