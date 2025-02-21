@@ -1,4 +1,4 @@
-![logo]
+![logo](https://images.app.goo.gl/MpWd4W15CqXFzEqx9.webp)
 # **POWERPUFF GIRLS** 👧🏻👧🏼👧🏽
 
 ### 👩🏻‍🤝‍👩🏼 **Team Members:**
