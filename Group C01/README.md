@@ -1,7 +1,7 @@
 # Group Member
-1. Muhammad Alif Iskandar bin Mad Sihad
-2. Ahmad Raziq bin Mohd Roslil Khitam
-3. Muhammad Farhan bin Amir Fikrey
+1. Muhammad Alif Iskandar bin Mad Sihad (2023479398)
+2. Ahmad Raziq bin Mohd Roslil Khitam (2023680042)
+3. Muhammad Farhan bin Amir Fikrey (2023627494)
 
 # INDIVIDUAL
 ## Lab 1 
