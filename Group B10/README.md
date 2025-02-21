@@ -3,6 +3,6 @@ GORGEOUS
 2.SYAHINDAH BINTI SAIFUL AZMAN AZLI
 
 LAB 9
-[YOUTUBE](https://github.com/Starfallsya/LAB-9.git))
+[YOUTUBE LINK](https://github.com/Starfallsya/LAB-9.git)
 
 
