@@ -40,6 +40,6 @@
 - **YouTube** 💌 : _(Pending)_  
 
 ## **LAB 9**  
-- **GitHub** 😎 : _(Pending)_  
+- **GitHub** 😎 : [Repo](https://github.com/wnnrblqs/LAB-9.git)  
 - **YouTube** 💌 : _(Pending)_  
 
