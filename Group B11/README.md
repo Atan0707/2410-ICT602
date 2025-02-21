@@ -29,4 +29,4 @@
 ## 🤝 **Group Submissions**
 
 ### 🛠️ **Lab 4,5,6,7 - CRUD Operations and Multiple Delete**
-- 📌 [Lab 4,5,6,7]() 
+- 📌 [Lab 4,5,6,7](https://github.com/najahae/Lab-4-5-6-7) 
