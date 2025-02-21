@@ -7,7 +7,7 @@
 
 ---
 
-## 💻 **Lab Work Submissions**
+## 💻 **Individual Lab Submissions**
 
 ### 📝 **Lab Work 1**
 - 🔗 [Nur Ezzati]
