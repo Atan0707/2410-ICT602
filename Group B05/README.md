@@ -18,8 +18,8 @@
 
 | LAB |               LINK     |
 | :--------|     :-------      |
-| LAB 4,5,6     |<ul><li>[source code](https://github.com/MSaufi23/flutter-firebase)</li><li>[youtube documentation](https://youtu.be/j9DUqGXPnCo)</li></ul>|
-| LAB 7         |<ul><li>[source code](https://github.com/MSaufi23/flutter-firebase)</li><li>[youtube documentation](https://youtu.be/j9DUqGXPnCo)</li></ul>|
+| LAB 4,5,6     |<ul><li>[source code](https://github.com/MSaufi23/flutter-firebase)</li><li>[youtube documentation](https://youtu.be/j9DUqGXPnCo?si=85nY08TiWLRBxdbo)</li></ul>|
+| LAB 7         |<ul><li>[source code](https://github.com/MSaufi23/flutter-firebase)</li><li>[youtube documentation](https://youtu.be/j9DUqGXPnCo?si=85nY08TiWLRBxdbo)</li></ul>|
 | LAB 8         |          |
 | LAB 9         |          |
 
