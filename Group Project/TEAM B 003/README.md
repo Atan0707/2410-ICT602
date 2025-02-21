@@ -1,5 +1,5 @@
-# 2410-ICT602
-## Group Project
+# 2410-ICT602 (CS2515C)
+## Group Project 
 
 # Group Assignment (Hospital Tracker)
 1. Muhammad Azri Bin Mokhzani
@@ -16,6 +16,5 @@
 
 ### 📄 Project Report:
 
-📄 [Final Project Report](https://drive.google.com/file/d/1OPVq4MDweEfuIK1Gt1Lf2jdMO8kH5kbQ/view?usp=sharing)# 2410-ICT602
-## Group Project
+📄 [Final Project Report](https://drive.google.com/file/d/1OPVq4MDweEfuIK1Gt1Lf2jdMO8kH5kbQ/view?usp=sharing)
 
