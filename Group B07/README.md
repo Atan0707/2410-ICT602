@@ -45,6 +45,5 @@ WAN AFIQ DANIAL BIN WAN NORZUHAIRI
 | 9   | [Google Sign-In](https://youtu.be/LSLFbLWYRKo)| [Source Code](https://github.com/Atan0707/ICT602-Lab-Group/tree/lab-9) |
 | 10   | [Hospital Tracker](https://youtu.be/2VawfV2EGZI) | [Source Code](https://github.com/afiqq03/ICT602-GroupProject) |
 
-WRITTEN REPORT
-
-[WRITTEN REPORT]()
+WRITTEN REPORT -
+[Link to WRITTEN REPORT](https://docs.google.com/document/d/1rymBeQCFsp045KB7GVMndAdTN8o35d-pkJ8CO97z5Aw/edit?usp=sharing)
