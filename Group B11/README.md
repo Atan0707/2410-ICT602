@@ -22,7 +22,7 @@
 ### 📝 **Lab Work 3**
 - 🔗 [Nur Ezzati]
 - 🔗 [Najah Nasuha](https://t.me/c/1268048899/37628?thread=34431)
-- 🔗 [Nur Ayuni Izzah]
+- 🔗 [Nur Ayuni Izzah](https://t.me/c/1268048899/37272?thread=34431)
 
 ---
 
