@@ -33,12 +33,12 @@
 - ▶️ Youtube: [Group B11 | Lab Work 4, 5, 6 and 7 - CRUD](https://youtu.be/vsXLDNVbOBg)
 
   ### 💻 **Lab 8**
-- 🔗 Source Code:  [Lab 8: Hardware Lab Access]
-- ▶️ Youtube:
+- 🔗 Source Code:  [Lab 8: Accessing the Harware]
+- ▶️ Youtube: [Group B11 | Lab Work 7 - Accessing the Harware]
 
 ### 💻 **Lab 9**
-- 🔗 Source Code: [Lab 9: Google Sign In]
-- ▶️ Youtube:
+- 🔗 Source Code: [Lab 9: Google Sign-in]
+- ▶️ Youtube: [Group B11 | Lab Work 9 - Google Sign-in
 
   ### 💻 **Lab 10**
 - 🔗 Source Code: [Lab 10: RESTful API](https://github.com/yyyuni77/Lab-10-RESTful-API.git)
