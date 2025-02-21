@@ -30,7 +30,7 @@
 
 ### 💻 **Lab 4,5,6,7 - CRUD Operations and Multiple Delete**
 - 🔗 Source Code: [Lab 4,5,6,7](https://github.com/najahae/Lab-4-5-6-7) 
-- ▶️ Youtube:
+- ▶️ Youtube: [Group B11 | Lab Work 4, 5, 6 and 7 - CRUD](https://youtu.be/vsXLDNVbOBg)
 
   ### 💻 **Lab 8**
 - 🔗 Source Code:  
