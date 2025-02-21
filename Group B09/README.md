@@ -41,5 +41,8 @@
 
 ## **LAB 9**  
 - **GitHub** 😎 : [Repo](https://github.com/wnnrblqs/LAB-9.git)  
-- **YouTube** 💌 : _(Pending)_  
+- **YouTube** 💌 : _(Pending)_
+## **LAB 10 AND GROUP ASSIGNMENT**  
+- **GitHub** 😎 : [Repo]((https://github.com/addff/2410-ICT602/tree/main/Group%20Project))  
+- **Report** 💌 : _(Pending)_  
 
