@@ -17,7 +17,7 @@
 ### 📝 **Lab Work 2**
 - 🔗 [Nur Ezzati](https://t.me/c/1268048899/34489?thread=33988)
 - 🔗 [Najah Nasuha](https://t.me/c/1268048899/34646?thread=33988)  
-- 🔗 [Nur Ayuni Izzah]
+- 🔗 [Nur Ayuni Izzah](https://t.me/c/1268048899/34721?thread=33988)
 
 ### 📝 **Lab Work 3**
 - 🔗 [Nur Ezzati]
