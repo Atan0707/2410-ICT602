@@ -43,6 +43,6 @@
 - **GitHub** 😎 : [Repo](https://github.com/wnnrblqs/LAB-9.git)  
 - **YouTube** 💌 : _(Pending)_
 ## **LAB 10 AND GROUP ASSIGNMENT**  
-- **GitHub** 😎 : [Repo](https://github.com/addff/2410-ICT602/tree/main/Group%20Project)  
-- **Report** 💌 : https://docs.google.com/document/d/19rNKC_8eCG3-o0ks6Ymy1qWNNJ_MAzdhyXqSiRZ8B4A/edit?usp=sharing
+- **GitHub** 😎 :  
+- **Report** 💌 : [https://docs.google.com/document/d/19rNKC_8eCG3-o0ks6Ymy1qWNNJ_MAzdhyXqSiRZ8B4A/edit?usp=sharing](https://drive.google.com/file/d/1kjJf9mm6gcJvd1lfhbT4s6ek1c_-DLt1/view?usp=sharing)
 
