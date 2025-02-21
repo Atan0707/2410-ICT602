@@ -26,6 +26,15 @@ MUHAMMAD FIRDAUS BIN ALI
 | 2   | [Link to Lab 2](https://t.me/c/1268048899/34415?thread=33988) |
 | 3   | [Link to Lab 3]() |
 
+WAN AFIQ DANIAL BIN WAN NORZUHAIRI
+
+| LAB | Link                                                   |
+|-----|--------------------------------------------------------|
+| 1   | [Link to Lab 1]() |
+| 2   | [Link to Lab 2]() |
+| 3   | [Link to Lab 3]() |
+
+
 ## GROUP WORK
 
 | LAB | Link                                                   | Source Code |   
