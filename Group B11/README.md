@@ -12,12 +12,12 @@
 ### 📝 **Lab Work 1**
 - 🔗 [Nur Ezzati](https://t.me/c/1268048899/34253?thread=33987)
 - 🔗 [Najah Nasuha](https://t.me/c/1268048899/34391?thread=33987)  
-- 🔗 [Nur Ayuni Izzah] 
+- 🔗 [Nur Ayuni Izzah](https://t.me/c/1268048899/34410?thread=33987)
 
 ### 📝 **Lab Work 2**
 - 🔗 [Nur Ezzati](https://t.me/c/1268048899/34489?thread=33988)
 - 🔗 [Najah Nasuha](https://t.me/c/1268048899/34646?thread=33988)  
-- 🔗 [Nur Ayuni Izzah](https://t.me/c/1268048899/34410?thread=33987)
+- 🔗 [Nur Ayuni Izzah]
 
 ### 📝 **Lab Work 3**
 - 🔗 [Nur Ezzati]
