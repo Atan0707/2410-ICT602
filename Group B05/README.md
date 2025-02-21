@@ -20,8 +20,7 @@
 | :--------|     :-------      |
 | LAB 4,5,6     |<ul><li>[source code](https://github.com/MSaufi23/flutter-firebase)</li><li>[youtube documentation](https://youtu.be/j9DUqGXPnCo?si=85nY08TiWLRBxdbo)</li></ul>|
 | LAB 7         |<ul><li>[source code](https://github.com/MSaufi23/flutter-firebase)</li><li>[youtube documentation](https://youtu.be/j9DUqGXPnCo?si=85nY08TiWLRBxdbo)</li></ul>|
-| LAB 8         |   <ul><li>[source code](https://github.com/tgxzd/ICT602-Lab-8-9)</li><li>[youtube documentation]()</li></ul>       |
-| LAB 9         |          |
+| LAB 8,9       |   <ul><li>[source code](https://github.com/tgxzd/ICT602-Lab-8-9)</li><li>[youtube documentation](https://www.youtube.com/shorts/XOB-55DbT7g)</li></ul>       |
 
 _____________________________________________________________________________________________________________
 
