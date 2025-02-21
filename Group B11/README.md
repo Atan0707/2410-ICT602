@@ -34,7 +34,7 @@
 
   ### 💻 **Lab 8**
 - 🔗 Source Code:  [Lab 8: Accessing the Harware]
-- ▶️ Youtube: [Group B11 | Lab Work 7 - Accessing the Harware]
+- ▶️ Youtube: [Group B11 | Lab Work 8 - Accessing the Harware]
 
 ### 💻 **Lab 9**
 - 🔗 Source Code: [Lab 9: Google Sign-in](https://github.com/yyyuni77/Lab-9-Google-SignIn)
