@@ -37,12 +37,12 @@
 
 ## **LAB 7**  
 - **GitHub** 😎 : [Repo](https://github.com/wnnrblqs/LAB-7.git)  
-- **YouTube** 💌 : _(Pending)_  
+- **YouTube** 💌 : [Video](https://youtu.be/ehxti9AEnOs)
 
 ## **LAB 9**  
 - **GitHub** 😎 : [Repo](https://github.com/wnnrblqs/LAB-9.git)  
-- **YouTube** 💌 : _(Pending)_
+- **YouTube** 💌 :[Video](https://youtu.be/ehxti9AEnOs)
 ## **LAB 10 AND GROUP ASSIGNMENT**  
 - **GitHub** 😎 :  
-- **Report** 💌 : [https://docs.google.com/document/d/19rNKC_8eCG3-o0ks6Ymy1qWNNJ_MAzdhyXqSiRZ8B4A/edit?usp=sharing](https://drive.google.com/file/d/1kjJf9mm6gcJvd1lfhbT4s6ek1c_-DLt1/view?usp=sharing)
+- **Report** 💌 : [File](https://drive.google.com/file/d/1kjJf9mm6gcJvd1lfhbT4s6ek1c_-DLt1/view?usp=sharing)
 
