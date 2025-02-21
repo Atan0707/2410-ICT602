@@ -43,6 +43,7 @@
 - **GitHub** 😎 : [Repo](https://github.com/wnnrblqs/LAB-9.git)  
 - **YouTube** 💌 :[Video](https://youtu.be/ehxti9AEnOs)
 ## **LAB 10 AND GROUP ASSIGNMENT**  
-- **GitHub** 😎 :  
+- **GitHub** 😎 :  [Repo](https://github.com/zulaikha00/group_project)
+- **YouTube** 💌 :[Video](https://youtu.be/ehxti9AEnOs)
 - **Report** 💌 : [File](https://drive.google.com/file/d/1kjJf9mm6gcJvd1lfhbT4s6ek1c_-DLt1/view?usp=sharing)
 
