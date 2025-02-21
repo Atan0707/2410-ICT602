@@ -17,7 +17,7 @@
 - **Report**: [View Report](https://drive.google.com/file/d/1kjJf9mm6gcJvd1lfhbT4s6ek1c_-DLt1/view?usp=sharing)
 
 ### SOURCE CODE 💻
-- **GitHub**: [Group Project Repository](https://github.com/zulaikha00/group_project)
+- **GitHub**: [Source Code](https://github.com/zulaikha00/group_project)
 
 ### VIDEO 🎥
 - **Watch Video**: [Video Link](https://youtu.be/gce82Z3Xawo?si=Y4BNaD4ejYwxNiz_)
