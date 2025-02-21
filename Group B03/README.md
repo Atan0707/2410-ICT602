@@ -20,5 +20,5 @@
 - **GitHub**: [Source Code](https://github.com/zulaikha00/group_project)
 
 ### VIDEO 🎥
-- **Watch Video**: [Video Link]([https://youtu.be/gce82Z3Xawo?si=Y4BNaD4ejYwxNiz](https://youtu.be/o7z_zBCi1Vo?si=XGluWaio40zJD_3q )
+- **Watch Video**: [Video Link](https://youtu.be/o7z_zBCi1Vo?si=1WefE7uHoJwi29Y6)
 
