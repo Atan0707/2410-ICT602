@@ -1,6 +1,4 @@
-Here's your updated content with a bigger font size for the title and an emoji added:
 
----
 
 # **GROUP PROJECT** 🎉
 
@@ -24,6 +22,3 @@ Here's your updated content with a bigger font size for the title and an emoji a
 ### VIDEO 🎥
 - **Watch Video**: [Video Link](https://youtu.be/gce82Z3Xawo?si=Y4BNaD4ejYwxNiz_)
 
----
-
-The title "GROUP PROJECT" now has an emoji and is emphasized with a bigger size to stand out!
