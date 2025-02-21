@@ -2,5 +2,6 @@ GORGEOUS
 1.NURIN BATRISYIA BINTI ABU HANIF
 2.SYAHINDAH BINTI SAIFUL AZMAN AZLI
 
-##LAB 9
-https://github.com/Starfallsya/LAB-9.git
+[LAB 9](https://github.com/Starfallsya/LAB-9.git))
+
+
