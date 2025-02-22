@@ -12,7 +12,7 @@
 🔗 [Hospital Locator on GitHub](https://github.com/goodbyeO0/flutter-group-project)
 
 ### 🎥 Project Presentation:
-📺 [Watch on YouTube](https://www.youtube.com/watch?v=jwnez8Hdsd1)
+📺 [Watch on YouTube](https://youtu.be/cbJGxjCXFpk)
 
 ### 📄 Project Report:
 
