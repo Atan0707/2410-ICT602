@@ -7,35 +7,7 @@
 5. Muhammad Hazrul Fahmi Bin Marhalim
 6. Muhammad Izhan Zikry Bin Hamdani
 
-# 🌟 Features
 
-## 🔐 Secure Authentication  
-Users must register and log in with email and password.
-
-## 📍 Location Tracking 
- Uses Geolocation API to detect users' exact positions.
-
-## 🗺 Map Integration 
- Displays nearby hospitals and clinics on an interactive map.
-
-
-# 🎯 Scope
-
-## 👥 User Scope
-
-Open to all users needing quick access to hospital locations.
-
-Medical staff can locate nearby hospitals in emergencies.
-
-## ⚙️ Functionality Scope
-
-Detects users' locations.
-
-Finds and displays the nearest hospitals or clinics.
-
-## 🛠 Technology Scope
-
-Built with Flutter Framework and MySQL.
 
 
 ### 📂 Project Repository:
