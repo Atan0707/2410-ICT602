@@ -12,10 +12,11 @@
 ### 📝 **Lab 2**  
 - [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/34224?thread=33988)  
 - [Muhammad Hazrul Fahmi bin Marhalim]()  
-- [Muhammad Mirza bin Azhar]()  
+- [Muhammad Mirza bin Azhar](https://t.me/c/1268048899/34440?thread=33988)  
 
 ### 📝 **Lab 3**  
-- [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/37677?thread=34431)  
+- [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/37677?thread=34431) 
+- [Muhammad Mirza bin Azhar](https://t.me/c/1268048899/37636?thread=34431)  
 
 ## 📦 **Group Labs**  
 ### 🚀 **Lab 4, 5, 6** - **CRUD (Create, Read, Update, Delete)**  
