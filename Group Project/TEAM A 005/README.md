@@ -16,4 +16,5 @@
 
 ### 📄 Project Report:
 
-📄 [Final Project Report](https://drive.google.com/drive/folders/1DLyllbjVRYIrmuq1DdJ_qK3xIUaGa6lX?usp=drive_link)
+📄 [Final Project Report](ICT602_Team A 005_ProjectReport.pdf)
+
