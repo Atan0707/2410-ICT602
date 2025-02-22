@@ -7,7 +7,7 @@
 ### 📝 **Lab 1**  
 - [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/34223?thread=33987)  
 - [Muhammad Hazrul Fahmi bin Marhalim]()  
-- [Muhammad Mirza bin Azhar]()  
+- [Muhammad Mirza bin Azhar](https://t.me/c/1268048899/34371?thread=33987)  
 
 ### 📝 **Lab 2**  
 - [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/34224?thread=33988)  
