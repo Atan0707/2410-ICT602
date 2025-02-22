@@ -25,7 +25,7 @@
 
 ### 🚀 **Lab 7** - **CRUD (Continue: Delete)**  
 - [Source Code](https://github.com/mrzaazhar/FlutterCRUD)  
-- [YouTube Documentation](https://t.me/c/1268048899/37748?thread=36561)  
+- [YouTube Documentation](https://youtu.be/atPrkQCy6N0)  
 
 ### 🚀 **Lab 8** - **Accessing the Hardware**  
 - [Source Code]()  
