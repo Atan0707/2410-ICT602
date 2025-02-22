@@ -1,5 +1,5 @@
 # 2410-ICT602 (CS2515B)
-## Group Assignment
+## Group Project
 1. Tengku Aizad bin Tengku Noor Azman
 2. Muhammad Izzuddin bin Othman
 3. Muhammad Saufi bin Muhammad Safian
