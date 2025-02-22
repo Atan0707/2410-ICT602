@@ -21,7 +21,7 @@
 ## 📦 **Group Labs**  
 ### 🚀 **Lab 4, 5, 6** - **CRUD (Create, Read, Update, Delete)**  
 - [Source Code](https://github.com/goodbyeO0/flutter_lab_CRUD)  
-- [YouTube Documentation](https://www.youtube.com/watch?v=mHrJQAfej-I&ab_channel=mmmmm)  
+- [YouTube Documentation](https://www.youtube.com/watch?v=F6f5ch2MeF4)  
 
 ### 🚀 **Lab 7** - **CRUD (Continue: Delete)**  
 - [Source Code](https://github.com/mrzaazhar/FlutterCRUD)  
