@@ -28,8 +28,8 @@
 - [YouTube Documentation](https://youtu.be/atPrkQCy6N0)  
 
 ### 🚀 **Lab 8** - **Accessing the Hardware**  
-- [Source Code]()  
-- [YouTube Documentation]()  
+- [Source Code](https://github.com/goodbyeO0/flutter-hardware)  
+- [YouTube Documentation](https://youtu.be/3dxu1Kyhoto)  
 
 ### 🚀 **Lab 9** - **Google Sign-In**  
 - [Source Code]()  
