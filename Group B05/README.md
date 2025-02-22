@@ -14,7 +14,7 @@
 | MUHAMMAD HILMI ZUHDI BIN ISHAK | 2022862484|
 
 
-#### LAB WORK GROUP
+#### LAB WORK GROUP 
 
 | LAB |               LINK     |
 | :--------|     :-------      |
@@ -23,7 +23,7 @@
 | LAB 8,9       |   <ul><li>[source code](https://github.com/tgxzd/ICT602-Lab-8-9)</li><li>[youtube documentation](https://www.youtube.com/shorts/XOB-55DbT7g)</li></ul>       |
 
 _____________________________________________________________________________________________________________
-
+#### LAB INDIVIDUAL
 #### LAB WORK TENGKU AIZAD
 
 
