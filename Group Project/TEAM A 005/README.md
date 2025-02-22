@@ -2,12 +2,15 @@
 ## Group Project
 # Group Assignment
 1. Tengku Aizad bin Tengku Noor Azmi
-2. Muhammad Izzudin bin Othman
+2. Muhammad Izzuddin bin Othman
 3. Muhammad Saufi bin Muhammad Safian
-4. Muhammad Hilmi Zuhdi bin Ishak
+4. Muhammad Mirza Bin Azhar
+5. Muhammad Hazrul Fahmi Bin Marhalim
+6. Muhammad Izhan Zikry Bin Hamdani
+
 
 ### 📂 Project Repository:
-🔗 [Hospital Locator on GitHub](https://github.com/MSaufi23/flutter-group.git)
+🔗 [Hospital Locator on GitHub](https://github.com/goodbyeO0/flutter-group-project)
 
 ### 🎥 Project Presentation:
 📺 [Watch on YouTube](https://www.youtube.com/watch?v=jwnez8Hdsd1)
