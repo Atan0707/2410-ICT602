@@ -1,4 +1,4 @@
-# **POWERPUFF GIRLS** 👧🏻👧🏼👧🏽
+# **POWERPUFF GIRLS** 👩🏻‍🦰👧🏻👱🏻‍♀️
 
 ### 👩🏻‍🤝‍👩🏼 **Team Members:**
 1. **Nur Ezzati binti Saparudin (2022899678)**
