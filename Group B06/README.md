@@ -6,16 +6,17 @@
 ## 📌 **Individual Labs**  
 ### 📝 **Lab 1**  
 - [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/34223?thread=33987)  
-- [Muhammad Hazrul Fahmi bin Marhalim]()  
+- [Muhammad Hazrul Fahmi bin Marhalim](https://t.me/c/1268048899/34392?thread=33987)  
 - [Muhammad Mirza bin Azhar](https://t.me/c/1268048899/34371?thread=33987)  
 
 ### 📝 **Lab 2**  
 - [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/34224?thread=33988)  
-- [Muhammad Hazrul Fahmi bin Marhalim]()  
+- [Muhammad Hazrul Fahmi bin Marhalim](https://t.me/c/1268048899/34397?thread=33988)  
 - [Muhammad Mirza bin Azhar](https://t.me/c/1268048899/34440?thread=33988)  
 
 ### 📝 **Lab 3**  
 - [Muhammad Izhan Zikry bin Mohd Hamdani](https://t.me/c/1268048899/37677?thread=34431) 
+- [Muhammad Hazrul Fahmi bin Marhalim]()
 - [Muhammad Mirza bin Azhar](https://t.me/c/1268048899/37636?thread=34431)  
 
 ## 📦 **Group Labs**  
